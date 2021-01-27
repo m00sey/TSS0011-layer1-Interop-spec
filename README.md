@@ -1,6 +1,6 @@
 # ToIP  TSS0011: Layer1 Interop Spec
 
-- Authors: [Kevin Griffin](griffin.kev@gmail.com) [Phil Feairheller]() [Drummond Reed]() [Darrell O'Donnell]()  -- email is optional
+- Authors: [Phil Feairheller]() [Kevin Griffin](griffin.kev@gmail.com) [Darrell O'Donnell]() [Drummond Reed]()   -- email is optional
 - Status: [PROPOSED](https://trustoverip.github.io/deliverables/process/lifecycle_management/#proposed)
 - Since: 2020-12-14
 - Status Note: Work in progress

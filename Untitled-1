@@ -1,0 +1,46 @@
+12/18/2020 TSWG TSS0011 Notes
+
+PEER DIDS - 
+
+KERI:
+    - could be a did method
+    - treat it as a did method
+
+Characteristics of actors, VDR layer 1 return cryptographic metadata immuntable
+
+DIDDoc 
+    - have a DID
+    - holding metadata
+    @type - ???
+
+more than just a did, 
+    is a credential a peer of a did
+
+DID can always return a DIDDoc
+It can also return an information resource identified by the did?
+
+DID method
+    - Shared indy did method
+    - did:indy:sov
+
+Requirements for did methods satisfy layer one
+    - did methods and here is how you use them
+    - does this need to discover other did methods
+        - trusted network?
+        - cross registration
+        - diddoc mapping cross registered networks
+            - maps to a diddoc (bootstrap info) to talk to another network (geneis file, config ledger)
+            - 
+            - did network directory diddoc
+            - did network registration
+
+Contents
+    - Characteristics ?
+    - Methods
+    - Discovery
+    - Considerations
+
+Provied trust registry as layer one? (org book)
+    - flat list?
+    - federated list?
+
